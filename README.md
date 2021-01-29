@@ -3,9 +3,9 @@ Enable ZERO versioning on Sharepoint and remove old versioned files
 
 This project is aimed to provide a simple script to save $$ by enabling the hidden option of ZERO versioning on Microsoft Sharepoint site and removing ALL old versioned files.
 
-The script is an enhanced version of the sample scripts provided in those referencing sites which can recursively traverse across a huge number of folders, subfolders and files.
+The Powershell script can recursively traverse across a huge number of folders, subfolders and files.
 
-The script can be run from a Windows Client with Sharepoint user credential and without the needs of Sharepoint admin right.
+The Powershell script can be run from a Windows Client with Sharepoint user credential and without the needs of Sharepoint admin console.
 
 Features :
 * Can be run from a Windows Client with Sharepoint site user credential
