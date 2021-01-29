@@ -57,10 +57,12 @@ http://www.sharepointnutsandbolts.com/2013/12/Using-CSOM-in-PowerShell-scripts-w
 
 
 References :
+
 https://www.sharepointdiary.com/2018/08/sharepoint-online-powershell-to-disable-versioning.html
 https://www.sharepointdiary.com/2016/02/sharepoint-online-delete-version-history-using-powershell.html
 http://www.sharepointnutsandbolts.com/2013/12/Using-CSOM-in-PowerShell-scripts-with-Office365.html
 
 
-**DISCLAIMER
+
+** DISCLAIMER **
 The author will not accept any responsibility for loss of computer data or software, however caused, including any alleged loss sustained due to the execution of the script. The author is not liable for any direct, indirect, consequential, incidental or punitive damages arising as a result of your use of or inability to download the script and / or instruction thereof and / or use of or inability to execute the script. The author provides no warranties whatsoever, express or implied that the instruction of any and all of our scripts is error-free and / or up-to-date and that script will be 100 % error-free.
