@@ -2,7 +2,7 @@
 
 Enable NO Versioning on Sharepoint and remove old versioned files
 
-This project is aimed to provide a simple script to save $$ by enabling the hidden option of ZERO versioning on Microsoft Sharepoint site and removing ALL old versioned files.
+This project is aimed to provide a simple script to save $$ by enabling the hidden option of NO Versioning on Microsoft Sharepoint site and removing ALL old versioned files.
 
 The Powershell script can recursively traverse across a huge number of folders, subfolders and files.
 
