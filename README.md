@@ -1,5 +1,6 @@
-# Saving-Sharepoint-$pace
-Enable ZERO versioning on Sharepoint and remove old versioned files
+# Sharepoint-No-Versioning
+
+Enable NO Versioning on Sharepoint and remove old versioned files
 
 This project is aimed to provide a simple script to save $$ by enabling the hidden option of ZERO versioning on Microsoft Sharepoint site and removing ALL old versioned files.
 
