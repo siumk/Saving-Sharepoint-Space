@@ -1,4 +1,4 @@
-# Sharepoint No Versioning
+# Sharepoint Disable & Delete Versioning
 
 Enable NO Versioning on Sharepoint and remove old versioned files
 
